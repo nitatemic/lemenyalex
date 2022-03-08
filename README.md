@@ -13,7 +13,7 @@
 
 - 📫 How to reach me ([Please use PGP if possible](https://github.com/nitatemic/nitatemic/files/8202948/alexandre%40nitatemic.dev_0x166E9BF2_public.asc.zip)) **alexandre@nitatemic.dev**
 
-- 📄 Want to see how I learned React, Node.js, ... [https://www.linkedin.com/in/nitatemic/](https://www.linkedin.com/in/nitatemic/)
+- 🎶 What kind of music do I listen to on repeat? [My Apple Music playlist](https://music.apple.com/fr/playlist/playlist-by-alexandre-explicit/pl.u-mW7fy3elWJ)
 
 - 🎆 I speak **French (native) and english**
 
