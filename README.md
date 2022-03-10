@@ -7,7 +7,7 @@
 
 - 🔭 I will soon start **the ThemePark app**
 
-- 🤝 I’m looking for help with [repliaWithDeepl](https://github.com/nitatemic/replikaWithDeepl/issues/1)
+- 🤝 If you want to support me or one of my projects [Ko-fi](https://ko-fi.com/nitatemic)
 
 - 💬 I use **React, Express (Node.js)**
 
