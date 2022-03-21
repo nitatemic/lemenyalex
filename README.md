@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, you can call me Nitatemic, Alexandre or Alex (He/Him)</h1>
 <h3 align="center">A student developer, who loves JavaScript (even if it is true that sometimes it is weird🤫)</h3>
 
-- 🔭 I’m currently working on [ThemePark](https://github.com/nitatemic/ThemePark)
+- 🔭 I’m currently working on **ThemePark**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Dart**
 
 - 🤝 If you want to support me or one of my projects [Ko-fi](https://ko-fi.com/nitatemic)
 
