@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ThemePark**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 If you want to support me or one of my projects [Ko-fi](https://ko-fi.com/nitatemic)
 
