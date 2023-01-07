@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, you can call me Nitatemic, Alexandre or Alex (He/Him)</h1>
 <h3 align="center">A student developer, who loves JavaScript (even if it is true that sometimes it is weird🤫)</h3>
 
-- 🔭 I’m currently working on **ThemePark**
+- 🔭 I’m currently working on **Whatsapp Rewind**
 
 - 🌱 I'm currently deepening my knowledge of **React**
 
