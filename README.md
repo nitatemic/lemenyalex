@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, you can call me Nitatemic, Alexandre or Alex (He/Him)</h1>
-<h3 align="center">A student developer, who loves JavaScript (even if it is true that sometimes it is weird🤫)</h3>
 
 - 🔭 I’m currently working on **Whatsapp Rewind**
 
-- 🌱 I'm currently deepening my knowledge of **React**
+- 🌱 I'm currently deepening my knowledge of **Python**
 
 - 🤝 If you want to support me or one of my projects [Ko-fi](https://ko-fi.com/nitatemic)
 
-- 💬 I use **React, Express (Node.js)**
+- 💬 I use **React & Node.js**
 
 - 📫 How to reach me ([Please use PGP if possible](https://github.com/nitatemic/nitatemic/files/8202948/alexandre%40nitatemic.dev_0x166E9BF2_public.asc.zip)) **alexandre@nitatemic.dev**
 
