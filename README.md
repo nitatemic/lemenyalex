@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Whatsapp Rewind**
 
-- 🌱 I'm currently deepening my knowledge of **Python**
+- 🌱 I'm currently deepening my knowledge of **Bash**
 
 - 🤝 If you want to support me or one of my projects [Ko-fi](https://ko-fi.com/nitatemic)
 
