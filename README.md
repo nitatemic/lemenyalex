@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, you can call me Nitatemic, Alexandre or Alex (He/Him)</h1>
 
-- 🔭 I’m currently working on **Whatsapp Rewind**
+- 🔭 I’m currently working on **multiples bash scripts**
 
 - 🌱 I'm currently deepening my knowledge of **Bash**
 
